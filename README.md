@@ -9,7 +9,7 @@ First, install and load the package.
 
 ```{r, echo=TRUE, message=FALSE}
 # Install and load package
-devtools::install_github("nikolaifish/bamMSE", build_vignettes = TRUE)
+devtools::install_github("Nikolai-Klibansky/bamMSE", build_vignettes = TRUE)
 library(bamMSE)
 ```
 
